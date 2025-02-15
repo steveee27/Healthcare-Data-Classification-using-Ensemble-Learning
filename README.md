@@ -1,4 +1,4 @@
-# Healthcare Data Classification Using Ensemble Learning
+# Medical Test Results Classification using Ensemble Learning
 
 ## Table of Contents
 - [Introduction](#introduction)
