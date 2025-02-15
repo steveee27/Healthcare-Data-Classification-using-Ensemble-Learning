@@ -28,6 +28,7 @@ The dataset consists of 10,000 observations with 15 features, including patient 
 5. **Billing Amount**: Total healthcare bill for the patient
 6. **Medication**: Medication prescribed
 7. **Test Results**: Outcome of the medical tests (Normal, Abnormal, Inconclusive)
+8. etc.
 
 The dataset is structured to simulate patient records, providing insight into various aspects of healthcare diagnostics.
 
